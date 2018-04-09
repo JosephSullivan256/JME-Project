@@ -1,0 +1,21 @@
+<gameunit>
+	<dependencies>
+		
+	</dependencies>
+	<contexts>
+		<context id="main">
+			<dependencies>
+				
+			</dependencies>
+			<actions>
+				<action id="interval super action">
+					<dt>1.0f/60f</dt><timescale>1.0</timescale>
+					
+				</action>
+				<action id="master rendering action">
+					
+				</action>
+			</actions>
+		</context>
+	</contexts>
+</gameunit>
